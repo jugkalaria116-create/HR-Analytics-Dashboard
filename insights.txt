@@ -1,0 +1,5 @@
+1. Attrition rate is X%
+2. Sales department has highest employee count
+3. Employees doing overtime leave more often
+4. Average salary differs by department
+5. Gender ratio is imbalanced / balanced
