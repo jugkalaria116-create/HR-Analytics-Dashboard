@@ -3,3 +3,8 @@
 3. Employees doing overtime leave more often
 4. Average salary differs by department
 5. Gender ratio is imbalanced / balanced
+6. Sales Executives have highest attrition.
+7. Employees working overtime leave more often.
+8. R&D department has largest workforce.
+9. Lower satisfaction correlates with higher attrition.
+10. Most employees are aged 30-39.
